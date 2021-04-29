@@ -4,4 +4,5 @@
 * [Localization](localization.md)
 * [Generator](generator.md)
 * [Internet](internet.md)
+* [Randomness seed](randomness-seed.md)
 
