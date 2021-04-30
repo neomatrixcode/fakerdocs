@@ -6,6 +6,8 @@ Faker will be of use to you, whether you need to start your database, test the o
 
 Faker is heavily inspired by  [Python Faker](https://github.com/joke2k/faker), and by [Ruby Faker](https://github.com/stympy/faker).
 
+Faker groups functions with common properties in "Providers", such as Company, Datetime, Internet, Lorem, Phone number, etc. Each call to any method produces a different \(random\) result.
+
 ## Install
 
 First [download](https://julialang.org/downloads/#current_stable_release) and install Julia `1.5` or higher.                                                                                                                        To do the installation use any of the following commands:
