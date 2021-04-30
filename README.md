@@ -1,5 +1,7 @@
 # Quick start
 
+ Faker is heavily inspired by  [Python Faker](https://github.com/joke2k/faker), and by [Ruby Faker](https://github.com/stympy/faker).
+
 ## Install
 
 First [download](https://julialang.org/downloads/#current_stable_release) and install Julia `1.5` or higher.                                                                                                                        To do the installation use any of the following commands:
