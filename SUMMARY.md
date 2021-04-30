@@ -26,4 +26,5 @@
 
 * [Github](https://github.com/neomatrixcode/Faker.jl)
 * [Website](https://faker.vercel.app/)
+* [Sponsor this project](https://github.com/sponsors/neomatrixcode)
 
