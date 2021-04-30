@@ -1,5 +1,9 @@
 # Datetime
 
+{% hint style="info" %}
+All parameters are optional.
+{% endhint %}
+
 ```rust
 Faker.months()
 => 4

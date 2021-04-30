@@ -1,5 +1,9 @@
 # Miscellaneous
 
+{% hint style="info" %}
+All parameters are optional.
+{% endhint %}
+
 ```rust
 Faker.password(longitud=10, special_caracteres=true, digitos=true, upper_case=true, lower_case=true)
 => 6%)&eM4"#A

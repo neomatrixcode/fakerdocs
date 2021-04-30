@@ -1,5 +1,9 @@
 # User agent
 
+{% hint style="info" %}
+All parameters are optional.
+{% endhint %}
+
 ```rust
 Faker.mac_processor()
 => U; PPC

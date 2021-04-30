@@ -1,5 +1,9 @@
 # Internet
 
+{% hint style="info" %}
+All parameters are optional.
+{% endhint %}
+
 ```rust
 Faker.pixels()
 => 545

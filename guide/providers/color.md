@@ -1,5 +1,9 @@
 # Color
 
+{% hint style="info" %}
+All parameters are optional.
+{% endhint %}
+
 ```rust
 Faker.color_name()
 => YellowGreen

@@ -1,5 +1,9 @@
 # Credit card
 
+{% hint style="info" %}
+All parameters are optional.
+{% endhint %}
+
 ```rust
 Faker.credit_card_security_code()
 => 607

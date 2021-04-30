@@ -1,5 +1,9 @@
 # Phone number
 
+{% hint style="info" %}
+All parameters are optional.
+{% endhint %}
+
 ```rust
 Faker.phone_number()
 => 1-954-928- 162

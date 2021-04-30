@@ -1,5 +1,9 @@
 # Base
 
+{% hint style="info" %}
+All parameters are optional.
+{% endhint %}
+
 ```rust
 Faker.random_digit()
 => 5

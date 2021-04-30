@@ -1,5 +1,9 @@
 # Address
 
+{% hint style="info" %}
+All parameters are optional.
+{% endhint %}
+
 ```rust
 Faker.state_abbr()
 => WY

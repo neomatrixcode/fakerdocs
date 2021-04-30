@@ -1,5 +1,9 @@
 # Company
 
+{% hint style="info" %}
+All parameters are optional.
+{% endhint %}
+
 ```rust
 Faker.company()
 => Bogan-Emard

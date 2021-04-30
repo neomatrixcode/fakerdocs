@@ -1,5 +1,9 @@
 # Lorem
 
+{% hint style="info" %}
+All parameters are optional.
+{% endhint %}
+
 ```rust
 Faker.text(number_chars=200)
 => Placeat minima velit aliquam in ea. Qui occaecati. Possimus quos esse magni ex iusto. Minus consequuntur velit ipsum aut cumque. Corporis. Rerum accusamus. Aspernatur. Et. Maiores est voluptates. Minima facilis iure.

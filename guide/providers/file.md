@@ -1,5 +1,9 @@
 # File
 
+{% hint style="info" %}
+All parameters are optional.
+{% endhint %}
+
 ```rust
 Faker.mime_type()
 => audio/x-ms-wax
