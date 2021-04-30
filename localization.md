@@ -6,6 +6,8 @@ Faker has support for multiple localities. The default language locale is set to
 Faker.language("es-MX")
 ```
 
+The supported languages are:
+
 * es-MX
 * en-US
 * ja
