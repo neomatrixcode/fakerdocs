@@ -5,4 +5,5 @@
 * [Generator](generator.md)
 * [Internet](internet.md)
 * [Randomness seed](randomness-seed.md)
+* [Base](base.md)
 
