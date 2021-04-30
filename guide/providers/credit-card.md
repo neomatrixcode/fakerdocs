@@ -38,3 +38,17 @@ Faker.generate_card_number("52",16)
 
 ```
 
+
+
+The types of cards supported are: 
+
+* "**mastercard**"-&gt; "Mastercard" 
+* "visa16" -&gt; "VISA 16 digit" 
+* "visa13" -&gt; "VISA 13 digit" 
+* "amex" -&gt; "American Express"
+* "discover" -&gt; "Discover" 
+* "diners" -&gt; "Diners Club / Carte Blanche" 
+* "jcb15" -&gt; "JCB 15 digit" 
+* "jcb16" -&gt; "JCB 16 digit"
+* "voyager" -&gt; "Voyager"
+
