@@ -1,12 +1,10 @@
 # Quick start
 
-Faker is a generator of false data for julia programming language.
-
-Faker will be of use to you, whether you need to start your database, test the operation of its services or build documents automatically.
-
-Faker is heavily inspired by  [Python Faker](https://github.com/joke2k/faker), and by [Ruby Faker](https://github.com/stympy/faker).
+Faker is a generator of false data for julia programming language. Faker will be of use to you, whether you need to start your database, test the operation of its services or build documents automatically.
 
 Faker groups functions with common properties in "Providers", such as Company, Datetime, Internet, Lorem, Phone number, etc. Each call to any method produces a different \(random\) result.
+
+Faker is heavily inspired by  [Python Faker](https://github.com/joke2k/faker), and by [Ruby Faker](https://github.com/stympy/faker).
 
 ## Install
 
