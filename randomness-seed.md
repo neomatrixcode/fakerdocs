@@ -6,3 +6,9 @@ When using Faker for unit testing, you will often want to generate the same data
 Faker.seed(83)
 ```
 
+{% hint style="warning" %}
+Please note that as Faker is updated, results are not guaranteed to be consistent across versions. If you code your test results, be sure to pin the Faker version.
+{% endhint %}
+
+
+
