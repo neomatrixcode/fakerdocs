@@ -15,7 +15,7 @@
   * [File](providers/file.md)
   * [Person](providers/person.md)
   * [User agent](providers/user-agent.md)
+* [Randomness seed](randomness-seed.md)
 * [Localization](localization.md)
 * [Generator](generator.md)
-* [Randomness seed](randomness-seed.md)
 
