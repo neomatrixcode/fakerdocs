@@ -1,7 +1,7 @@
 # File
 
 {% hint style="info" %}
-All parameters are optional.
+All parameters are optional. The sample parameters are the default values used by each function.
 {% endhint %}
 
 ```rust

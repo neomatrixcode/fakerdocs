@@ -4,6 +4,20 @@ When using Faker for unit testing, you will often want to generate the same data
 
 ```rust
 Faker.seed(83)
+
+Faker.first_name()
+"Vern"
+
+Faker.first_name()
+"Francis"
+
+Faker.seed(83)
+
+Faker.first_name()
+"Vern"
+
+Faker.first_name()
+"Francis"
 ```
 
 {% hint style="warning" %}
