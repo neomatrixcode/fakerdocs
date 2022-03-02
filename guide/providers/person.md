@@ -1,12 +1,28 @@
 # Person
 
 {% hint style="info" %}
-All parameters are optional. The sample parameters are the default values used by each function.
+All parameters are optional.&#x20;
 {% endhint %}
 
 ```rust
 Faker.first_name()
 => Maynard
+
+
+Faker.first_name("M")     
+=> Clair
+
+
+Faker.first_name("F")     
+=> Margert
+
+
+Faker.female_first_name() 
+=> Gregory
+
+
+Faker.male_first_name()   
+=> Corey
 
 
 Faker.last_name()
@@ -69,4 +85,3 @@ Faker.user_profile(
 )
 => yKeeling, Luke, F, 982 Mitchell Meadows Lake Earnest IN 47743, White.Yong@yahoo.com, 2035-8-20, Engineer, maintenance, Sauer, Gleichner and Nolan, 829 Dicki Station South Terinaview SC 05927, 6.003906258.0078125, B+, http://www.rr.org/
 ```
-
