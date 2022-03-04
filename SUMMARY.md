@@ -5,6 +5,7 @@
 ## Guide
 
 * [Providers](guide/providers/README.md)
+  * [SSN](guide/providers/ssn.md)
   * [Base](guide/providers/base.md)
   * [Address](guide/providers/address.md)
   * [Company](guide/providers/company.md)
@@ -22,9 +23,8 @@
 * [Randomness seed](guide/randomness-seed.md)
 * [Generator](guide/generator.md)
 
----
+***
 
 * [Github](https://github.com/neomatrixcode/Faker.jl)
-* [Website](https://faker.vercel.app/)
+* [Website](https://faker.vercel.app)
 * [Sponsor this project](https://github.com/sponsors/neomatrixcode)
-
